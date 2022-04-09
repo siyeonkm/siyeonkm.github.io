@@ -40,9 +40,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "kims56849@ewhain.net"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: siyeonkm
-  youtube: chennel/UCq-Zb7t-fkN4E9brYgXoOhQ
+  youtube: channel/UCq-Zb7t-fkN4E9brYgXoOhQ
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -78,7 +78,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "devSiyeon.com"
+url-pretty: "siyeonkm.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50

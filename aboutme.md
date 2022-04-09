@@ -1,16 +1,28 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who is Dev Siyeon?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+##안녕하세요👋 백엔드 개발자, 김시연입니다.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+###제 개발능력은...
+    🌷 Spring, Spring boot를 이용하여 백엔드 로직을 구성할 수 있습니다.
+    🐬 여러 ERD 프로그램과, MySQL을 이용해서 데이터베이스를 구축할 수 있습니다.
+    👾 Unity, Android 개발 경험도 있기때문에, 프론트에 대한 이해도가 높습니다.
+    🐱 github을 자유롭게 사용할 수 있습니다. (issue, 코드리뷰등)
+    ✨ 클린코드에 대해 배우려 노력하고있습니다. (현재 독서중)
 
-What else do you need?
+###제 성격은...
+    🥰 남들과 잘 어울리는 둥근 성격을 가졌습니다.
+    🤗 차분하고, 이해심이 많습니다.
+    🤩 협업시, 적극적으로 참여하며 많은 의견을 사람들과 공유하고자 합니다.
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### 제 경력은...
+    - EFUB 웹개발 동아리 1기 수료
+    - EFUB 웹개발 동아리 2기 임원진 (ing~)
+    - KING 게임개발 동아리 11기 정회원
+
+    - EFUB 맛집전공 개발
+    - KING 아프디망고 개발 및 출시
